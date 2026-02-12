@@ -7,7 +7,8 @@ Fuentes de Datos: Generados a partir de un Script de Python tomando como guía l
 Rango de fechas para las ventas va desde 1/2020 hasta el 10/2025. El mes de octubre de 2025 es el mes adicional (ventas_add.csv). 
 <br>
 
-<img width="1069" height="623" alt="Captura de pantalla (63)" src="https://github.com/user-attachments/assets/b1a08f72-37a7-4241-be4a-937152870b45" />  
+<img width="919" height="742" alt="Captura de pantalla (73)" src="https://github.com/user-attachments/assets/b9a94c88-4f8b-41ff-88eb-c988aa1be498" />
+
 
 <img width="1306" height="723" alt="Captura de pantalla (64)" src="https://github.com/user-attachments/assets/4b112376-b274-4293-8c6b-1c64a574f5b6" />
 
