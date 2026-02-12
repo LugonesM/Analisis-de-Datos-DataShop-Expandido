@@ -1,0 +1,101 @@
+CodCliente,RazonSocial,Telefono,Mail,Direccion,Localidad,Provincia,CP
+1,ACME Corp 1,54964652357,user1@empresa.com,Calle Ficticia 900,Este,Buenos Aires,8525
+2,Globex 2,54929884748,user2@empresa.com,Calle Ficticia 184,Sur,Córdoba,5785
+3,Wayne Ent. 3,54941207975,user3@empresa.com,Calle Ficticia 37,Sur,Tucumán,7326
+4,Dunder Mifflin 4,54942088590,user4@empresa.com,Calle Ficticia 765,Sur,Santa Fe,6037
+5,Globex 5,54930962724,user5@empresa.com,Calle Ficticia 205,Oeste,Córdoba,2060
+6,Wayne Ent. 6,54949376670,user6@empresa.com,Calle Ficticia 252,Centro,Tucumán,2514
+7,Dunder Mifflin 7,54996926851,user7@empresa.com,Calle Ficticia 451,Sur,Buenos Aires,2147
+8,Globex 8,54951669542,user8@empresa.com,Calle Ficticia 988,Norte,Tucumán,2730
+9,Globex 9,54940288249,user9@empresa.com,Calle Ficticia 722,Oeste,Santa Fe,1425
+10,Wayne Ent. 10,54943165864,user10@empresa.com,Calle Ficticia 338,Norte,Córdoba,2427
+11,Wayne Ent. 11,54996261329,user11@empresa.com,Calle Ficticia 164,Centro,Mendoza,4574
+12,Globex 12,54914041018,user12@empresa.com,Calle Ficticia 634,Sur,Córdoba,7737
+13,Globex 13,54934181429,user13@empresa.com,Calle Ficticia 355,Centro,Tucumán,6768
+14,ACME Corp 14,54992138486,user14@empresa.com,Calle Ficticia 747,Centro,Tucumán,2884
+15,Globex 15,54975798163,user15@empresa.com,Calle Ficticia 426,Norte,Buenos Aires,1535
+16,ACME Corp 16,54993488178,user16@empresa.com,Calle Ficticia 54,Norte,Buenos Aires,5641
+17,Wayne Ent. 17,54948769940,user17@empresa.com,Calle Ficticia 426,Oeste,Tucumán,1944
+18,Dunder Mifflin 18,54942578287,user18@empresa.com,Calle Ficticia 519,Norte,Mendoza,4586
+19,Globex 19,54993850990,user19@empresa.com,Calle Ficticia 519,Norte,Mendoza,1642
+20,Globex 20,54940751825,user20@empresa.com,Calle Ficticia 292,Norte,Mendoza,3213
+21,ACME Corp 21,54962518405,user21@empresa.com,Calle Ficticia 53,Oeste,Mendoza,8397
+22,ACME Corp 22,54993364962,user22@empresa.com,Calle Ficticia 488,Este,Mendoza,3961
+23,ACME Corp 23,54994057083,user23@empresa.com,Calle Ficticia 431,Sur,Mendoza,1554
+24,Globex 24,54975550190,user24@empresa.com,Calle Ficticia 969,Centro,Buenos Aires,6932
+25,Dunder Mifflin 25,54914020965,user25@empresa.com,Calle Ficticia 131,Norte,Córdoba,5224
+26,Dunder Mifflin 26,54927730470,user26@empresa.com,Calle Ficticia 996,Oeste,Córdoba,1979
+27,Dunder Mifflin 27,54922034643,user27@empresa.com,Calle Ficticia 302,Norte,Buenos Aires,5571
+28,ACME Corp 28,54962058835,user28@empresa.com,Calle Ficticia 614,Norte,Mendoza,7818
+29,Globex 29,54924001885,user29@empresa.com,Calle Ficticia 434,Norte,Córdoba,1939
+30,ACME Corp 30,54944432641,user30@empresa.com,Calle Ficticia 55,Sur,Tucumán,6884
+31,Dunder Mifflin 31,54914373965,user31@empresa.com,Calle Ficticia 358,Centro,Mendoza,1226
+32,Globex 32,54927716674,user32@empresa.com,Calle Ficticia 303,Norte,Córdoba,2544
+33,Globex 33,54996825880,user33@empresa.com,Calle Ficticia 897,Este,Santa Fe,8292
+34,Wayne Ent. 34,54981909899,user34@empresa.com,Calle Ficticia 196,Sur,Buenos Aires,2941
+35,Dunder Mifflin 35,54980130070,user35@empresa.com,Calle Ficticia 12,Centro,Tucumán,4826
+36,Globex 36,54952504115,user36@empresa.com,Calle Ficticia 583,Centro,Mendoza,1353
+37,Dunder Mifflin 37,54920098494,user37@empresa.com,Calle Ficticia 439,Este,Buenos Aires,7173
+38,Globex 38,54911779215,user38@empresa.com,Calle Ficticia 110,Norte,Mendoza,1498
+39,Wayne Ent. 39,54949552048,user39@empresa.com,Calle Ficticia 878,Centro,Mendoza,8535
+40,ACME Corp 40,54961412435,user40@empresa.com,Calle Ficticia 207,Este,Córdoba,7795
+41,Dunder Mifflin 41,54993145840,user41@empresa.com,Calle Ficticia 11,Norte,Santa Fe,3421
+42,Dunder Mifflin 42,54990367363,user42@empresa.com,Calle Ficticia 970,Norte,Buenos Aires,6201
+43,Wayne Ent. 43,54993837808,user43@empresa.com,Calle Ficticia 540,Norte,Santa Fe,6312
+44,Globex 44,54951027603,user44@empresa.com,Calle Ficticia 728,Sur,Mendoza,5383
+45,Globex 45,54975686112,user45@empresa.com,Calle Ficticia 752,Este,Buenos Aires,8732
+46,ACME Corp 46,54935057098,user46@empresa.com,Calle Ficticia 144,Este,Tucumán,4675
+47,Dunder Mifflin 47,54919962871,user47@empresa.com,Calle Ficticia 384,Este,Mendoza,7545
+48,Globex 48,54914659454,user48@empresa.com,Calle Ficticia 616,Oeste,Buenos Aires,2013
+49,Globex 49,54947043967,user49@empresa.com,Calle Ficticia 824,Oeste,Buenos Aires,4455
+50,Dunder Mifflin 50,54941688248,user50@empresa.com,Calle Ficticia 612,Este,Tucumán,3589
+51,Wayne Ent. 51,54987065463,user51@empresa.com,Calle Ficticia 165,Centro,Buenos Aires,3647
+52,Globex 52,54961298723,user52@empresa.com,Calle Ficticia 468,Centro,Buenos Aires,4001
+53,Wayne Ent. 53,54994915770,user53@empresa.com,Calle Ficticia 452,Norte,Santa Fe,8726
+54,Wayne Ent. 54,54977140935,user54@empresa.com,Calle Ficticia 850,Este,Buenos Aires,8856
+55,Dunder Mifflin 55,54974714214,user55@empresa.com,Calle Ficticia 42,Oeste,Buenos Aires,7616
+56,Globex 56,54969661064,user56@empresa.com,Calle Ficticia 646,Oeste,Santa Fe,1878
+57,ACME Corp 57,54967884310,user57@empresa.com,Calle Ficticia 407,Norte,Córdoba,4675
+58,Dunder Mifflin 58,54941613864,user58@empresa.com,Calle Ficticia 8,Este,Tucumán,7452
+59,Dunder Mifflin 59,54943792394,user59@empresa.com,Calle Ficticia 501,Centro,Santa Fe,5562
+60,ACME Corp 60,54918438912,user60@empresa.com,Calle Ficticia 582,Centro,Buenos Aires,7339
+61,Wayne Ent. 61,54983136674,user61@empresa.com,Calle Ficticia 772,Centro,Córdoba,5220
+62,ACME Corp 62,54981631354,user62@empresa.com,Calle Ficticia 45,Centro,Tucumán,1495
+63,Dunder Mifflin 63,54950575487,user63@empresa.com,Calle Ficticia 258,Oeste,Mendoza,5186
+64,Globex 64,54952710251,user64@empresa.com,Calle Ficticia 838,Centro,Mendoza,8949
+65,Dunder Mifflin 65,54990985281,user65@empresa.com,Calle Ficticia 95,Oeste,Córdoba,5580
+66,Wayne Ent. 66,54912989921,user66@empresa.com,Calle Ficticia 224,Este,Córdoba,4182
+67,ACME Corp 67,54928851041,user67@empresa.com,Calle Ficticia 708,Norte,Tucumán,4460
+68,Wayne Ent. 68,54940316146,user68@empresa.com,Calle Ficticia 581,Este,Buenos Aires,6773
+69,Globex 69,54927116365,user69@empresa.com,Calle Ficticia 693,Norte,Buenos Aires,7296
+70,Wayne Ent. 70,54982350456,user70@empresa.com,Calle Ficticia 385,Este,Tucumán,8911
+71,ACME Corp 71,54974771972,user71@empresa.com,Calle Ficticia 760,Este,Mendoza,8794
+72,Globex 72,54983181033,user72@empresa.com,Calle Ficticia 959,Centro,Santa Fe,1807
+73,Globex 73,54956382234,user73@empresa.com,Calle Ficticia 733,Este,Buenos Aires,2988
+74,ACME Corp 74,54961559644,user74@empresa.com,Calle Ficticia 939,Norte,Mendoza,4887
+75,Wayne Ent. 75,54985690641,user75@empresa.com,Calle Ficticia 74,Este,Córdoba,8046
+76,Globex 76,54917313950,user76@empresa.com,Calle Ficticia 763,Centro,Tucumán,6334
+77,Wayne Ent. 77,54997605627,user77@empresa.com,Calle Ficticia 149,Sur,Mendoza,3795
+78,Globex 78,54932143062,user78@empresa.com,Calle Ficticia 866,Oeste,Córdoba,6227
+79,Globex 79,54944000130,user79@empresa.com,Calle Ficticia 916,Oeste,Buenos Aires,6373
+80,Globex 80,54962151542,user80@empresa.com,Calle Ficticia 351,Este,Mendoza,3430
+81,ACME Corp 81,54924442993,user81@empresa.com,Calle Ficticia 336,Oeste,Tucumán,5717
+82,Wayne Ent. 82,54974395326,user82@empresa.com,Calle Ficticia 602,Centro,Buenos Aires,7210
+83,Wayne Ent. 83,54984427788,user83@empresa.com,Calle Ficticia 57,Este,Mendoza,6318
+84,Dunder Mifflin 84,54983978957,user84@empresa.com,Calle Ficticia 410,Norte,Tucumán,1892
+85,Globex 85,54959956041,user85@empresa.com,Calle Ficticia 186,Sur,Santa Fe,7914
+86,Dunder Mifflin 86,54976660326,user86@empresa.com,Calle Ficticia 572,Este,Mendoza,2110
+87,Wayne Ent. 87,54948601953,user87@empresa.com,Calle Ficticia 190,Sur,Buenos Aires,3903
+88,Dunder Mifflin 88,54997617023,user88@empresa.com,Calle Ficticia 165,Este,Córdoba,4699
+89,ACME Corp 89,54957712928,user89@empresa.com,Calle Ficticia 593,Norte,Santa Fe,4128
+90,Wayne Ent. 90,54969742279,user90@empresa.com,Calle Ficticia 355,Norte,Buenos Aires,7968
+91,Dunder Mifflin 91,54940374605,user91@empresa.com,Calle Ficticia 511,Norte,Santa Fe,6841
+92,Globex 92,54998863358,user92@empresa.com,Calle Ficticia 466,Centro,Buenos Aires,2925
+93,Globex 93,54977004117,user93@empresa.com,Calle Ficticia 384,Norte,Córdoba,1226
+94,Dunder Mifflin 94,54948740265,user94@empresa.com,Calle Ficticia 134,Norte,Buenos Aires,7758
+95,Globex 95,54989046481,user95@empresa.com,Calle Ficticia 827,Sur,Tucumán,3657
+96,Wayne Ent. 96,54961616022,user96@empresa.com,Calle Ficticia 511,Sur,Tucumán,8519
+97,Dunder Mifflin 97,54926352371,user97@empresa.com,Calle Ficticia 491,Oeste,Córdoba,6266
+98,Wayne Ent. 98,54912182890,user98@empresa.com,Calle Ficticia 58,Este,Tucumán,5161
+99,ACME Corp 99,54986866233,user99@empresa.com,Calle Ficticia 725,Sur,Mendoza,4740
+100,Wayne Ent. 100,54975989529,user100@empresa.com,Calle Ficticia 256,Centro,Buenos Aires,3490

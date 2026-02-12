@@ -1,0 +1,11 @@
+CodigoTienda,Descripcion,Direccion,Localidad,Provincia,CP,TipoTienda
+1,Tienda Online 1,Av. Principal 1386,Centro,Mendoza,7486,Outlet
+2,Tienda Sucursal 2,Av. Principal 1313,Sur,Santa Fe,7271,Online
+3,Tienda Online 3,Av. Principal 1299,Este,Córdoba,1582,Sucursal
+4,Tienda Sucursal 4,Av. Principal 1438,Sur,Buenos Aires,3623,Sucursal
+5,Tienda Online 5,Av. Principal 1832,Sur,Buenos Aires,3973,Online
+6,Tienda Sucursal 6,Av. Principal 1218,Sur,Santa Fe,3361,Outlet
+7,Tienda Sucursal 7,Av. Principal 1367,Este,Córdoba,7599,Online
+8,Tienda Outlet 8,Av. Principal 749,Norte,Córdoba,6105,Outlet
+9,Tienda Outlet 9,Av. Principal 687,Oeste,Santa Fe,2501,Outlet
+10,Tienda Sucursal 10,Av. Principal 497,Sur,Córdoba,7131,Outlet
